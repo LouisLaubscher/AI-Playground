@@ -1,3 +1,4 @@
 # AI-Playground
 
-#Starting AI Coding
+Starting AI Coding.
+Testing the commit in VSCode
